@@ -1,2 +1,4 @@
 Hi Git
 Lets check the demo.
+
+added new line on newfile.txt folder
